@@ -10,8 +10,8 @@
 
 Ты лучше цифрового золота подкинь:
 
->BITCOIN
+>BITCOIN:
 **1L2F9fSXFsRdwgxA76ru59as2vh311HJGD**
 
->ETHEREUM
+>ETHEREUM:
 **0xa9a4b55D15D2e47170D77708EA4BF6C702f5049b**
