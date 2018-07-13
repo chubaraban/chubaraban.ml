@@ -3,7 +3,7 @@
 
 ## Ты ожидал тут сайт? Его не будет! *(но это не точно)*
 
-| Доска позора  | [vk.com/pozor_pro](https://vk.com/pozor_pro)  |
-| Форс Монтаж  | [vk.com/remont_kvartir_forcemontage](https://vk.com/remont_kvartir_forcemontage)  |
+| Доска позора  | [ссылка в vk.com](https://vk.com/pozor_pro)  |
+| Форс Монтаж  | [ссылка в vk.com](https://vk.com/repair_apartment_in_moscow)  |
 
 *Не обращай внимание на вышеперечисленных, они тут просто так, для "ввода в заблуждение"*
